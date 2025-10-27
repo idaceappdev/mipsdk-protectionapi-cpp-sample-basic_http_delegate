@@ -15,4 +15,4 @@ This sample code uses custom http delegate with MIP SDK in C++
   ' tested the sample and therefore cannot make any representations
   ' regarding the quality, safety, or suitability of any code or
   ' information found here.
-  '===================================================================
+  '-------------------------------------------------------------------
